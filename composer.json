@@ -1,5 +1,5 @@
 {
-    "name": "lakesoft/smarty",
+    "name": "latrell/smarty",
     "description": "This package lets you run Smarty3 on Laravel5 elegantly.",
     "keywords": ["L5", "Laravel 5", "Laravel", "Smarty", "Smarty 3", "View", "Templating"],
     "license": "MIT",
